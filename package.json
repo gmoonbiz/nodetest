@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geqingwei",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^0.6.33",
+    "redis": "^2.5.3",
+    "socket.io": "^1.4.5"
+  },
+  "keywords": [
+    "geqingwei"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokesmokes/backo.git"
+  },
+}
